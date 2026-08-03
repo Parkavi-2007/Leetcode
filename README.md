@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/Parkavi-2007/Leetcode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Parkavi-2007/Leetcode/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/Parkavi-2007/Leetcode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Parkavi-2007/Leetcode/tree/master/0389-find-the-difference) |
 | [0709-to-lower-case](https://github.com/Parkavi-2007/Leetcode/tree/master/0709-to-lower-case) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Parkavi-2007/Leetcode/tree/master/0067-add-binary) |
 | [0389-find-the-difference](https://github.com/Parkavi-2007/Leetcode/tree/master/0389-find-the-difference) |
 ## Binary Search
 |  |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Parkavi-2007/Leetcode/tree/master/0067-add-binary) |
 | [0877-stone-game](https://github.com/Parkavi-2007/Leetcode/tree/master/0877-stone-game) |
 ## Dynamic Programming
 |  |
@@ -64,5 +67,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Parkavi-2007/Leetcode/tree/master/0067-add-binary) |
 | [2390-removing-stars-from-a-string](https://github.com/Parkavi-2007/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
