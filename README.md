@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Parkavi-2007/Leetcode/tree/master/0075-sort-colors) |
+| [0392-is-subsequence](https://github.com/Parkavi-2007/Leetcode/tree/master/0392-is-subsequence) |
 ## Sorting
 |  |
 | ------- |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Parkavi-2007/Leetcode/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/Parkavi-2007/Leetcode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Parkavi-2007/Leetcode/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/Parkavi-2007/Leetcode/tree/master/0392-is-subsequence) |
 | [0709-to-lower-case](https://github.com/Parkavi-2007/Leetcode/tree/master/0709-to-lower-case) |
 | [2390-removing-stars-from-a-string](https://github.com/Parkavi-2007/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [3110-score-of-a-string](https://github.com/Parkavi-2007/Leetcode/tree/master/3110-score-of-a-string) |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Parkavi-2007/Leetcode/tree/master/0053-maximum-subarray) |
+| [0392-is-subsequence](https://github.com/Parkavi-2007/Leetcode/tree/master/0392-is-subsequence) |
 | [0877-stone-game](https://github.com/Parkavi-2007/Leetcode/tree/master/0877-stone-game) |
 ## Game Theory
 |  |
