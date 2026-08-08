@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Parkavi-2007/Leetcode/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Parkavi-2007/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/Parkavi-2007/Leetcode/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Parkavi-2007/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Parkavi-2007/Leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Parkavi-2007/Leetcode/tree/master/0392-is-subsequence) |
 | [0709-to-lower-case](https://github.com/Parkavi-2007/Leetcode/tree/master/0709-to-lower-case) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0242-valid-anagram](https://github.com/Parkavi-2007/Leetcode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Parkavi-2007/Leetcode/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Parkavi-2007/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Parkavi-2007/Leetcode/tree/master/0389-find-the-difference) |
 ## Bit Manipulation
 |  |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/Parkavi-2007/Leetcode/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Parkavi-2007/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## String Matching
 |  |
 | ------- |
@@ -131,4 +134,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Parkavi-2007/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Parkavi-2007/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
