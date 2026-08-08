@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Parkavi-2007/Leetcode/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Parkavi-2007/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Parkavi-2007/Leetcode/tree/master/0392-is-subsequence) |
+| [0844-backspace-string-compare](https://github.com/Parkavi-2007/Leetcode/tree/master/0844-backspace-string-compare) |
 | [0917-reverse-only-letters](https://github.com/Parkavi-2007/Leetcode/tree/master/0917-reverse-only-letters) |
 | [1768-merge-strings-alternately](https://github.com/Parkavi-2007/Leetcode/tree/master/1768-merge-strings-alternately) |
 ## Sorting
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0844-backspace-string-compare](https://github.com/Parkavi-2007/Leetcode/tree/master/0844-backspace-string-compare) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Parkavi-2007/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [2390-removing-stars-from-a-string](https://github.com/Parkavi-2007/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Monotonic Stack
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Parkavi-2007/Leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Parkavi-2007/Leetcode/tree/master/0392-is-subsequence) |
 | [0709-to-lower-case](https://github.com/Parkavi-2007/Leetcode/tree/master/0709-to-lower-case) |
+| [0844-backspace-string-compare](https://github.com/Parkavi-2007/Leetcode/tree/master/0844-backspace-string-compare) |
 | [0917-reverse-only-letters](https://github.com/Parkavi-2007/Leetcode/tree/master/0917-reverse-only-letters) |
 | [1768-merge-strings-alternately](https://github.com/Parkavi-2007/Leetcode/tree/master/1768-merge-strings-alternately) |
 | [2390-removing-stars-from-a-string](https://github.com/Parkavi-2007/Leetcode/tree/master/2390-removing-stars-from-a-string) |
@@ -98,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Parkavi-2007/Leetcode/tree/master/0067-add-binary) |
+| [0844-backspace-string-compare](https://github.com/Parkavi-2007/Leetcode/tree/master/0844-backspace-string-compare) |
 | [2390-removing-stars-from-a-string](https://github.com/Parkavi-2007/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Sliding Window
 |  |
