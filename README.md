@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-merge-strings-alternately](https://github.com/Parkavi-2007/Leetcode/tree/master/1768-merge-strings-alternately) |
 | [2390-removing-stars-from-a-string](https://github.com/Parkavi-2007/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [3110-score-of-a-string](https://github.com/Parkavi-2007/Leetcode/tree/master/3110-score-of-a-string) |
+| [3813-vowel-consonant-score](https://github.com/Parkavi-2007/Leetcode/tree/master/3813-vowel-consonant-score) |
 ## Hash Table
 |  |
 | ------- |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Parkavi-2007/Leetcode/tree/master/0067-add-binary) |
 | [0844-backspace-string-compare](https://github.com/Parkavi-2007/Leetcode/tree/master/0844-backspace-string-compare) |
 | [2390-removing-stars-from-a-string](https://github.com/Parkavi-2007/Leetcode/tree/master/2390-removing-stars-from-a-string) |
+| [3813-vowel-consonant-score](https://github.com/Parkavi-2007/Leetcode/tree/master/3813-vowel-consonant-score) |
 ## Sliding Window
 |  |
 | ------- |
