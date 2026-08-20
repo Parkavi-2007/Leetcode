@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2390-removing-stars-from-a-string](https://github.com/Parkavi-2007/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [3110-score-of-a-string](https://github.com/Parkavi-2007/Leetcode/tree/master/3110-score-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/Parkavi-2007/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/Parkavi-2007/Leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3813-vowel-consonant-score](https://github.com/Parkavi-2007/Leetcode/tree/master/3813-vowel-consonant-score) |
 ## Hash Table
 |  |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Parkavi-2007/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Parkavi-2007/Leetcode/tree/master/0389-find-the-difference) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Parkavi-2007/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/Parkavi-2007/Leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0383-ransom-note](https://github.com/Parkavi-2007/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Parkavi-2007/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/Parkavi-2007/Leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## String Matching
 |  |
 | ------- |
