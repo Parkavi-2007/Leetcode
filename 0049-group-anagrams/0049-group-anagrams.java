@@ -3,9 +3,13 @@ class Solution {
         HashMap<String,List<String>> map=new HashMap<>();
         for(String words:strs)
         {
-            char ch []=words.toCharArray();
-            Arrays.sort(ch);
-            String key=new String(ch);
+            int freq []=new int[26];
+            for(char c:words.toCharArray())
+            {
+                freq[c-'a']++;
+            }
+            String key=Arrays.toString(freq);
+            
             if(!map.containsKey(key))
             {
                 map.put(key,new ArrayList<>());  
