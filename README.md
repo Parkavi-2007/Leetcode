@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Parkavi-2007/Leetcode/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Parkavi-2007/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Parkavi-2007/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0217-contains-duplicate](https://github.com/Parkavi-2007/Leetcode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Parkavi-2007/Leetcode/tree/master/0283-move-zeroes) |
 | [0643-maximum-average-subarray-i](https://github.com/Parkavi-2007/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Parkavi-2007/Leetcode/tree/master/0724-find-pivot-index) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/Parkavi-2007/Leetcode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Parkavi-2007/Leetcode/tree/master/0075-sort-colors) |
+| [0217-contains-duplicate](https://github.com/Parkavi-2007/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Parkavi-2007/Leetcode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Parkavi-2007/Leetcode/tree/master/0389-find-the-difference) |
 ## Stack
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Parkavi-2007/Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Parkavi-2007/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Parkavi-2007/Leetcode/tree/master/0049-group-anagrams) |
+| [0217-contains-duplicate](https://github.com/Parkavi-2007/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Parkavi-2007/Leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Parkavi-2007/Leetcode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Parkavi-2007/Leetcode/tree/master/0383-ransom-note) |
