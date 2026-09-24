@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Parkavi-2007/Leetcode/tree/master/0002-add-two-numbers) |
 | [0067-add-binary](https://github.com/Parkavi-2007/Leetcode/tree/master/0067-add-binary) |
 | [0415-add-strings](https://github.com/Parkavi-2007/Leetcode/tree/master/0415-add-strings) |
 | [0877-stone-game](https://github.com/Parkavi-2007/Leetcode/tree/master/0877-stone-game) |
@@ -203,4 +204,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Parkavi-2007/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Parkavi-2007/Leetcode/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Parkavi-2007/Leetcode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
