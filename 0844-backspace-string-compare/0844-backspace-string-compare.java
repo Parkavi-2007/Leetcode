@@ -1,44 +1,45 @@
 class Solution {
     public boolean backspaceCompare(String s, String t) {
-        StringBuilder sb1=new StringBuilder();
-            StringBuilder sb2=new StringBuilder();
+        Stack<Character> s1=new Stack<>();
+        Stack<Character> t1=new Stack<>();
+        char [] c1=s.toCharArray();
+        char [] c2=t.toCharArray();
         for(int i=0;i<s.length();i++)
         {
-            char c=s.charAt(i);
-            if(c=='#')
+             
+            if(c1[i]=='#')
             {
-                if(sb1.length()>0)
-                {
-                sb1=sb1.deleteCharAt(sb1.length()-1);
-                }
+                if(!s1.isEmpty()){
+                s1.pop();
+                
             }
-            else
-            {
-                sb1=sb1.append(c);
+             }
+            else{
+                s1.push(c1[i]);
             }
-
         }
-        for(int i=0;i<t.length();i++)
+         for(int i=0;i<t.length();i++)
         {
-            char c1=t.charAt(i);
-            if(c1=='#')
+           
+            if(c2[i]=='#')
             {
-                 if(sb2.length()>0)
-                {
-                sb2=sb2.deleteCharAt(sb2.length()-1);
-                }
+                 if(!t1.isEmpty()){
+                t1.pop();
             }
-            else
-            {
-                sb2=sb2.append(c1);
             }
-
+            else{
+                t1.push(c2[i]);
+            }
+            
         }
-        if(sb1.toString().equals(sb2.toString()))
-        {
-            return true;
-        }
+        String res1=s1.toString();
+        String res2=t1.toString();
+    if(!res1.equals(res2))
+    {
         return false;
+    }
+
+      return true;
 
     }
 }
