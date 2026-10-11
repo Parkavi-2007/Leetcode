@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Parkavi-2007/Leetcode/tree/master/0392-is-subsequence) |
 | [0415-add-strings](https://github.com/Parkavi-2007/Leetcode/tree/master/0415-add-strings) |
 | [0709-to-lower-case](https://github.com/Parkavi-2007/Leetcode/tree/master/0709-to-lower-case) |
+| [0771-jewels-and-stones](https://github.com/Parkavi-2007/Leetcode/tree/master/0771-jewels-and-stones) |
 | [0844-backspace-string-compare](https://github.com/Parkavi-2007/Leetcode/tree/master/0844-backspace-string-compare) |
 | [0917-reverse-only-letters](https://github.com/Parkavi-2007/Leetcode/tree/master/0917-reverse-only-letters) |
 | [0925-long-pressed-name](https://github.com/Parkavi-2007/Leetcode/tree/master/0925-long-pressed-name) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Parkavi-2007/Leetcode/tree/master/0389-find-the-difference) |
 | [0496-next-greater-element-i](https://github.com/Parkavi-2007/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0705-design-hashset](https://github.com/Parkavi-2007/Leetcode/tree/master/0705-design-hashset) |
+| [0771-jewels-and-stones](https://github.com/Parkavi-2007/Leetcode/tree/master/0771-jewels-and-stones) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Parkavi-2007/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Parkavi-2007/Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Parkavi-2007/Leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
