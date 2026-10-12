@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Parkavi-2007/Leetcode/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Parkavi-2007/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0877-stone-game](https://github.com/Parkavi-2007/Leetcode/tree/master/0877-stone-game) |
+| [1207-unique-number-of-occurrences](https://github.com/Parkavi-2007/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Parkavi-2007/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Two Pointers
 |  |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Parkavi-2007/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0705-design-hashset](https://github.com/Parkavi-2007/Leetcode/tree/master/0705-design-hashset) |
 | [0771-jewels-and-stones](https://github.com/Parkavi-2007/Leetcode/tree/master/0771-jewels-and-stones) |
+| [1207-unique-number-of-occurrences](https://github.com/Parkavi-2007/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Parkavi-2007/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Parkavi-2007/Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Parkavi-2007/Leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
