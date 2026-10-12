@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Parkavi-2007/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Parkavi-2007/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/Parkavi-2007/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0594-longest-harmonious-subsequence](https://github.com/Parkavi-2007/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/Parkavi-2007/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0705-design-hashset](https://github.com/Parkavi-2007/Leetcode/tree/master/0705-design-hashset) |
 | [0724-find-pivot-index](https://github.com/Parkavi-2007/Leetcode/tree/master/0724-find-pivot-index) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Parkavi-2007/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Parkavi-2007/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/Parkavi-2007/Leetcode/tree/master/0389-find-the-difference) |
+| [0594-longest-harmonious-subsequence](https://github.com/Parkavi-2007/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 ## Stack
 |  |
 | ------- |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Parkavi-2007/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Parkavi-2007/Leetcode/tree/master/0389-find-the-difference) |
 | [0496-next-greater-element-i](https://github.com/Parkavi-2007/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0594-longest-harmonious-subsequence](https://github.com/Parkavi-2007/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0705-design-hashset](https://github.com/Parkavi-2007/Leetcode/tree/master/0705-design-hashset) |
 | [0771-jewels-and-stones](https://github.com/Parkavi-2007/Leetcode/tree/master/0771-jewels-and-stones) |
 | [1207-unique-number-of-occurrences](https://github.com/Parkavi-2007/Leetcode/tree/master/1207-unique-number-of-occurrences) |
@@ -164,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Parkavi-2007/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Parkavi-2007/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0594-longest-harmonious-subsequence](https://github.com/Parkavi-2007/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/Parkavi-2007/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 ## Prefix Sum
 |  |
@@ -181,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Parkavi-2007/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Parkavi-2007/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Parkavi-2007/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0594-longest-harmonious-subsequence](https://github.com/Parkavi-2007/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Parkavi-2007/Leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## String Matching
 |  |
