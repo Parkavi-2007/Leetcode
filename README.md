@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Parkavi-2007/Leetcode/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/Parkavi-2007/Leetcode/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Parkavi-2007/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0804-unique-morse-code-words](https://github.com/Parkavi-2007/Leetcode/tree/master/0804-unique-morse-code-words) |
 | [0877-stone-game](https://github.com/Parkavi-2007/Leetcode/tree/master/0877-stone-game) |
 | [1207-unique-number-of-occurrences](https://github.com/Parkavi-2007/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Parkavi-2007/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/Parkavi-2007/Leetcode/tree/master/0415-add-strings) |
 | [0709-to-lower-case](https://github.com/Parkavi-2007/Leetcode/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/Parkavi-2007/Leetcode/tree/master/0771-jewels-and-stones) |
+| [0804-unique-morse-code-words](https://github.com/Parkavi-2007/Leetcode/tree/master/0804-unique-morse-code-words) |
 | [0844-backspace-string-compare](https://github.com/Parkavi-2007/Leetcode/tree/master/0844-backspace-string-compare) |
 | [0917-reverse-only-letters](https://github.com/Parkavi-2007/Leetcode/tree/master/0917-reverse-only-letters) |
 | [0925-long-pressed-name](https://github.com/Parkavi-2007/Leetcode/tree/master/0925-long-pressed-name) |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/Parkavi-2007/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0705-design-hashset](https://github.com/Parkavi-2007/Leetcode/tree/master/0705-design-hashset) |
 | [0771-jewels-and-stones](https://github.com/Parkavi-2007/Leetcode/tree/master/0771-jewels-and-stones) |
+| [0804-unique-morse-code-words](https://github.com/Parkavi-2007/Leetcode/tree/master/0804-unique-morse-code-words) |
 | [1207-unique-number-of-occurrences](https://github.com/Parkavi-2007/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Parkavi-2007/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2351-first-letter-to-appear-twice](https://github.com/Parkavi-2007/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
