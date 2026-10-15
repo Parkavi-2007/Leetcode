@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Parkavi-2007/Leetcode/tree/master/0877-stone-game) |
 | [1207-unique-number-of-occurrences](https://github.com/Parkavi-2007/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Parkavi-2007/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Parkavi-2007/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 ## Two Pointers
 |  |
 | ------- |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-reverse-only-letters](https://github.com/Parkavi-2007/Leetcode/tree/master/0917-reverse-only-letters) |
 | [0925-long-pressed-name](https://github.com/Parkavi-2007/Leetcode/tree/master/0925-long-pressed-name) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Parkavi-2007/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Parkavi-2007/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Parkavi-2007/Leetcode/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1768-merge-strings-alternately](https://github.com/Parkavi-2007/Leetcode/tree/master/1768-merge-strings-alternately) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Parkavi-2007/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/Parkavi-2007/Leetcode/tree/master/0771-jewels-and-stones) |
 | [0804-unique-morse-code-words](https://github.com/Parkavi-2007/Leetcode/tree/master/0804-unique-morse-code-words) |
 | [1207-unique-number-of-occurrences](https://github.com/Parkavi-2007/Leetcode/tree/master/1207-unique-number-of-occurrences) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Parkavi-2007/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Parkavi-2007/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2351-first-letter-to-appear-twice](https://github.com/Parkavi-2007/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Parkavi-2007/Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -134,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Parkavi-2007/Leetcode/tree/master/0067-add-binary) |
 | [0389-find-the-difference](https://github.com/Parkavi-2007/Leetcode/tree/master/0389-find-the-difference) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Parkavi-2007/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2351-first-letter-to-appear-twice](https://github.com/Parkavi-2007/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 ## Binary Search
 |  |
@@ -193,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Parkavi-2007/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Parkavi-2007/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/Parkavi-2007/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Parkavi-2007/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Parkavi-2007/Leetcode/tree/master/1704-determine-if-string-halves-are-alike) |
 | [2351-first-letter-to-appear-twice](https://github.com/Parkavi-2007/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Parkavi-2007/Leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
